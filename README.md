@@ -1,16 +1,55 @@
-## Hi there 👋
+# Ashutosh Kumar
 
-<!--
-**Ashuak45/Ashuak45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer | SWE Intern Aspirant  
 
-Here are some ideas to get you started:
+Mandya, Karnataka  
+B.E. Computer Science (2028)  
+PES College of Engineering, Mandya  
+CGPA: 7.0  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+Computer Science student focused on backend development using Java and Spring Boot.  
+Currently strengthening core programming fundamentals, database systems, and scalable backend architecture.
+
+Interested in Backend Engineer and Software Engineering Internship roles.
+
+---
+
+## Technical Skills
+
+### Programming
+- Java
+
+### Backend
+- Spring Boot
+
+### Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+
+### Tools & Platforms
+- Git
+- AWS
+
+---
+
+## Projects
+
+(Will be updated soon)
+
+---
+
+## Coding Profile
+
+LeetCode: https://leetcode.com/u/noob_asshu/
+
+---
+
+## Contact
+
+Email: mr.ashuak766@gmail.com  
+LinkedIn: www.linkedin.com/ashutosh-kumar-675a242a1
