@@ -52,4 +52,4 @@ Actively preparing for Backend Engineer and Software Engineering Internship role
 ## 📫 Contact  
 
 📧 Email: mr.ashuak766@gmail.com  
-🔗 LinkedIn: www.linkedin.com/ashutosh-kumar-675a242a1
+🔗 LinkedIn: (https://www.linkedin.com/in/ashutosh-kumar-675a242a1/)
